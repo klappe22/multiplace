@@ -1,0 +1,12 @@
+
+multiplace
+- buy & sell stuff from ui
+- refine homepage
+- refine the prices UI
+- do plants collection
+- make post
+
+
+
+
+p2ppredict
