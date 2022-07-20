@@ -1,0 +1,7 @@
+Unknown error: {}:
+- EOA address!
+- Wrong network!
+- change addresses everywhere
+- metadataURIToImageURI (slice bs)
+- approvals
+- accidentally create a makerAsk on NFT you don't own
