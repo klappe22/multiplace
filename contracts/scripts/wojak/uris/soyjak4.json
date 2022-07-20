@@ -1,0 +1,26 @@
+{
+  "description": "a description for the wojak by price collection",
+  "name": "soyjak",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Soyjak"
+    },
+    {
+      "trait_type": "Level",
+      "value": "5"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Enthusiastic"
+    }
+  ],
+  "image": "ipfs://QmaLSPVFiJ8tw8fZH6fX3opBfQCnRcqsisHEXL6ewj4CW1",
+  "images": [
+    "ipfs://QmQcBxcA9us8CA6seKwjSKW3g1JwyjzbyEhaNZmLinpkvc",
+    "ipfs://QmcFPECZaxtW8tyM8DSwdZcBrfZYkC7FWcwnJwRWf1qALH",
+    "ipfs://QmTaiAF9KpkJftuWotCPE7T72JE6hbi5TqXRx5KUeBAYhL",
+    "ipfs://QmVLTdmvKi3a2b81uRobkgYmzsACN2KV6TxbKmxoYGc4Ds",
+    "ipfs://QmaLSPVFiJ8tw8fZH6fX3opBfQCnRcqsisHEXL6ewj4CW1"
+  ]
+}

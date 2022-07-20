@@ -1,0 +1,30 @@
+{
+  "description": "A collection of Wojaks and Wojak derivatives representing the mood after a price change. If the price hasn't changed much, Wojak is neutral. If it's down much, Wojak is mad. If it's up then Wojak is happy. Every NFT represent a different asset, which is shown in the images and metadata",
+  "name": "Wojak By Price",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Soyjak"
+    },
+    {
+      "trait_type": "Asset",
+      "value": "$TRX"
+    },
+    {
+      "trait_type": "Level",
+      "value": "1"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Mad"
+    }
+  ],
+  "image": "ipfs://QmQcBxcA9us8CA6seKwjSKW3g1JwyjzbyEhaNZmLinpkvc",
+  "images": [
+    "ipfs://QmQcBxcA9us8CA6seKwjSKW3g1JwyjzbyEhaNZmLinpkvc",
+    "ipfs://QmcFPECZaxtW8tyM8DSwdZcBrfZYkC7FWcwnJwRWf1qALH",
+    "ipfs://QmTaiAF9KpkJftuWotCPE7T72JE6hbi5TqXRx5KUeBAYhL",
+    "ipfs://QmVLTdmvKi3a2b81uRobkgYmzsACN2KV6TxbKmxoYGc4Ds",
+    "ipfs://QmaLSPVFiJ8tw8fZH6fX3opBfQCnRcqsisHEXL6ewj4CW1"
+  ]
+}
