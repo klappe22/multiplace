@@ -1,0 +1,19 @@
+{
+  "description": "a description for the whalefish collection",
+  "name": "whalefish",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Whale"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ],
+  "image": "ipfs://QmVkTNPT2vsaehFKLJzuJQ6h7NYDur55Dvq9mmzM5vFwBp",
+  "images": [
+    "ipfs://QmUiQ5WDu8fZqe5UFAjnBALRW6p8ZvuBK77ZUTpmsRt9eF",
+    "ipfs://QmVkTNPT2vsaehFKLJzuJQ6h7NYDur55Dvq9mmzM5vFwBp"
+  ]
+}
